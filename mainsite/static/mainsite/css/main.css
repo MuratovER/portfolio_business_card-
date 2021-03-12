@@ -1,0 +1,122 @@
+nav {
+    display: grid;
+    grid-template-columns: 15% 85%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.nav_buttons {
+    display: grid;
+    grid-template-columns: 8fr 1fr 1fr 1fr;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+
+.ico {
+    margin-left: 104px;
+}
+
+.line {
+    width: auto;
+    border: 1px solid rgba(163, 163, 163, 0.62);
+}
+
+.ico {
+    background-color: aqua;
+}
+.skills_btn {
+
+    margin-left: 90px;
+    margin-right: 90px;
+
+}
+
+.contact {
+
+    
+    margin-right: 100px;
+    width: 141px;
+    height: 37px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 18.5px;
+
+
+}
+
+.introduction_text {
+    margin-top: 40px;
+}
+
+.introduction_text_line_1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 56px;
+    text-align: center;
+
+
+
+}
+
+.introduction_text_line_2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.introduction_photo {
+
+    text-align:center;
+    
+
+}
+
+.introduction_photo_image { 
+    margin-top:40px;
+    width: 248px;
+    height: 248px;    
+    border-radius: 127px;
+    margin-bottom: 40px;
+
+}
+
+.about_me {
+    width: 141px;
+    height: 37px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 18.5px;
+
+
+    margin: auto;
+}
+
+.about_me_btn {
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+
+}
+

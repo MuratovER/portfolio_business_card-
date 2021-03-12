@@ -1,12 +1,58 @@
 <!DOCTYPE html>
+{% load static %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{% static 'mainsite/css/main.css' %}">
+    <title>portfolio</title>
 </head>
 <body>
-    
+<header>
+    <nav>
+        <div class="ico_box">
+            <img class= "ico" src="" alt="ico">
+        </div>
+        <div class="nav_buttons">
+            <div class="empty"></div>
+            <div class="projects_btn">
+                Projects
+            </div>
+            <div class="skills_btn">
+                Skills
+            </div>
+            <div class="contact">
+                <div class="contact_ico">
+                    Contact
+                </div>
+            </div>
+        </div>
+
+
+    </nav>
+    <div class="line">
+            
+    </div>
+</header>
+<div class="introduction_text">
+    <div class="introduction_text_line_1">
+        Full-stack developer & Project Manager
+    </div>
+    <div class="introduction_text_line_2">
+        I programming sites, apps and other interesting things according to your order  
+    </div>
+    <div class="introduction_photo">
+        <img src="../../static/mainsite/ico/20200902_162740.JPG" alt="avatar" class="introduction_photo_image">
+    </div>
+    <div class="about_me">
+        <div class="about_me_btn">
+            <p>About me</p>
+        </div>
+    </div>
+</div>
+
 </body>
 </html>

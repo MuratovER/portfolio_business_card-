@@ -200,9 +200,14 @@ nav {
 
 }
 
+
+
 .professional_skills_professions_front {
 
     text-align: center;
+    background: #FFFFFF;
+    border: 1px solid #171717;
+    box-sizing: border-box;
 
 }
 
@@ -216,13 +221,12 @@ ul {
     list-style-type: none;
 }
 
-
-
 li {
     margin-top:20px;
     margin-bottom: 20px;
     margin-right: 40px;
 }
+
 .professional_skills_professions_image {
     margin: 45px;
 }
@@ -231,7 +235,7 @@ li {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 21px;
 
     /* identical to box height */
@@ -255,7 +259,7 @@ li {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 19px;
 
     /* identical to box height */
@@ -268,7 +272,7 @@ li {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 19px;
 
     /* identical to box height */
@@ -280,3 +284,14 @@ li {
     
 }
 
+.portfolio_cases {
+    height:1100px;
+}
+
+footer {
+
+    background-color: #171717;
+    height: 264px;
+    width: 100%;
+
+}

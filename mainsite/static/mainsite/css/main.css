@@ -158,6 +158,8 @@ nav {
 }
 
 
+
+
 .professional_skills_heading {
 
     margin-top: 70px;
@@ -185,7 +187,7 @@ nav {
 
 
     background: #FFFFFF;
-    border: 1px solid #000000;
+    border: 1px solid #171717;
     box-sizing: border-box;
     border-radius: 16px;
 
@@ -208,4 +210,185 @@ nav {
 
     text-align: center;
 
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+li {
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+.professional_skills_professions_back_image {
+    margin: 45px;
+}
+
+.professional_skills_professions_back_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+    text-align: center;
+}
+
+.professional_skills_professions_back_image_description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #000000;
+    margin: 40px;
+}
+
+.professional_skills_professions_back_languages_heading {
+    margin: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.professional_skills_professions_back_tools_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    
+}
+.professional_skills_professions_front_image {
+    margin: 45px;
+}
+
+.professional_skills_professions_front_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+    text-align: center;
+}
+
+.professional_skills_professions_front_image_description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #000000;
+    margin: 40px;
+}
+
+.professional_skills_professions_front_languages_heading {
+    margin: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.professional_skills_professions_front_tools_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    
+}
+
+.professional_skills_professions_manager_image {
+    margin: 45px;
+}
+
+.professional_skills_professions_manager_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    /* identical to box height */
+    text-align: center;
+}
+
+.professional_skills_professions_manager_image_description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #000000;
+    margin: 40px;
+}
+
+.professional_skills_professions_manager_languages_heading {
+    margin: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.professional_skills_professions_back_manager_heading {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    
 }

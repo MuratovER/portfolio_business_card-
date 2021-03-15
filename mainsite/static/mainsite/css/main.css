@@ -223,11 +223,11 @@ li {
     margin-bottom: 20px;
     margin-right: 40px;
 }
-.professional_skills_professions_back_image {
+.professional_skills_professions_image {
     margin: 45px;
 }
 
-.professional_skills_professions_back_heading {
+.professional_skills_professions_heading {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -238,7 +238,7 @@ li {
     text-align: center;
 }
 
-.professional_skills_professions_back_image_description {
+.professional_skills_professions_image_description {
     font-family: Roboto;
     font-style: normal;
     font-weight: 300;
@@ -250,7 +250,7 @@ li {
     margin: 40px;
 }
 
-.professional_skills_professions_back_languages_heading {
+.professional_skills_professions_languages_heading {
     margin: 35px;
     font-family: Roboto;
     font-style: normal;
@@ -264,63 +264,7 @@ li {
     color: #000000;
 }
 
-.professional_skills_professions_back_tools_heading {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-
-    /* identical to box height */
-    text-align: center;
-
-    color: #000000;
-    margin-top: 50px;
-    margin-bottom: 25px;
-    
-}
-.professional_skills_professions_front_image {
-    margin: 45px;
-}
-
-.professional_skills_professions_front_heading {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 21px;
-
-    /* identical to box height */
-    text-align: center;
-}
-
-.professional_skills_professions_front_image_description {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: center;
-
-    color: #000000;
-    margin: 40px;
-}
-
-.professional_skills_professions_front_languages_heading {
-    margin: 35px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-
-    /* identical to box height */
-    text-align: center;
-
-    color: #000000;
-}
-
-.professional_skills_professions_front_tools_heading {
+.professional_skills_professions_tools_heading {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -336,59 +280,3 @@ li {
     
 }
 
-.professional_skills_professions_manager_image {
-    margin: 45px;
-}
-
-.professional_skills_professions_manager_heading {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 21px;
-
-    /* identical to box height */
-    text-align: center;
-}
-
-.professional_skills_professions_manager_image_description {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: center;
-
-    color: #000000;
-    margin: 40px;
-}
-
-.professional_skills_professions_manager_languages_heading {
-    margin: 35px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-
-    /* identical to box height */
-    text-align: center;
-
-    color: #000000;
-}
-
-.professional_skills_professions_back_manager_heading {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-
-    /* identical to box height */
-    text-align: center;
-
-    color: #000000;
-    margin-top: 50px;
-    margin-bottom: 25px;
-    
-}

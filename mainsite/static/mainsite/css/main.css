@@ -28,6 +28,12 @@ nav {
     border: 1px solid rgba(163, 163, 163, 0.62);
 }
 
+.ico_box {
+
+    margin-top: 8px;
+
+}
+
 .ico {
     background-color: aqua;
 }
@@ -35,7 +41,11 @@ nav {
 
     margin-left: 90px;
     margin-right: 90px;
+    margin-top: 4px;
+}
 
+.projects_btn {
+    margin-top: 4px;
 }
 
 .contact {
@@ -206,7 +216,7 @@ nav {
 
     text-align: center;
     background: #FFFFFF;
-    border: 1px solid #171717;
+    /* border: 1px solid #171717; */
     box-sizing: border-box;
 
 }
@@ -288,10 +298,134 @@ li {
     height:1100px;
 }
 
-footer {
 
-    background-color: #171717;
-    height: 264px;
-    width: 100%;
+.portfolio_project_1_image {
+    width: 423px;
+    height: 230px;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.portfolio_project_1_base {
+
+    position: absolute;
+    width: 423px;
+    height: 230px;
+    margin-left: 50px;
+    top: 1700px;
+    z-index: 5;
+    max-height: 300px;
+
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    box-shadow: 8px 2px 8px 3px rgba(0, 0, 0, 0.5);
 
 }
+
+.portfolio_project_1_div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+
+
+.portfolio_project_1 {
+    z-index: 4;
+
+
+}
+
+/* .portfolio_project_1 {
+    
+    position: absolute;
+    width: 423px;
+    height: 230px;
+    margin-left: 50px;
+    top: 1700px;
+    z-index: 4;
+    max-height: 300px;
+
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 9px;
+    box-shadow: 8px 2px 8px 3px rgba(0, 0, 0, 0.5);
+
+
+} */
+
+.portfolio_project_1_numbering {
+
+    z-index: 1;
+}
+
+.portfolio_project_1_numbering_01 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 112px;
+    z-index: 2;
+    /* identical to box height */
+    text-align: center;
+
+    color: #FFFFFF;
+    background-color: #171717;
+    width: 120px;
+
+}
+
+
+.portfolio_project_1_button_p {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 8px;
+  
+}
+
+
+.portfolio_project_1_button {
+
+    width: 143px;
+    height: 43px;
+    left: 71px;
+    top: 2064px;
+
+    margin-top: 50px;
+    margin-left: 30px;
+    background: #171717;
+
+}
+
+.line1 {    
+    z-index: 1;
+    position: absolute;
+    width: 835px;
+    height: 0px;
+    top: 2050px;
+    margin-left: 19%;
+
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+
+/* .line2  {
+    position: absolute;
+    width: 318.01px;
+    height: 0px;
+
+    top: 1850px;
+    z-index: 2;
+    border: 1px solid #000000;
+    text-align: center;
+
+}  */
+

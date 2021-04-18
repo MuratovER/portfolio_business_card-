@@ -48,7 +48,17 @@
         <img src="../../static/mainsite/ico/20200902_162740.JPG" alt="avatar" class="introduction_photo_image">
     </div>
     
-    <a href="" class="about_me_a">
+    <div class="popup" id="popup-1">
+        <div class="overlay"></div>
+        <div class="content">
+          <div class="close-btn" onclick="togglePopup()">&times;</div>
+          <h1>Title</h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo aspernatur laborum rem sed laudantium excepturi veritatis voluptatum architecto, dolore quaerat totam officiis nisi animi accusantium alias inventore nulla atque debitis.</p>
+        </div>
+    </div>
+    
+       
+    <a href="" class="about_me_a" onclick="togglePopup()" id="pop-up-btn">
         <div class="about_me">
             <div class="about_me_btn">
                 <p>About me</p>
@@ -202,6 +212,15 @@ as well as set up a strong interaction with the database
 </div>
 
 
-</body>
 
+</body>
+<script>
+
+
+function togglePopup(){
+    document.getElementById("popup-1").classList.toggle("active");
+    window.location.reload(false); 
+}
+
+</script>
 </html>
